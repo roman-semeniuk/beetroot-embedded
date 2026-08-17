@@ -26,9 +26,11 @@ Button pressed 10 times with different speed and force:
 | 10 | 1 | 1 |
 
 **Received serial info**
+
 ![received_serial](https://github.com/user-attachments/assets/31bf91d7-46b0-46fe-896d-4df40f024eed)
 
 **Recorded button presses signal waveform**
+
 ![presses_waveform](https://github.com/user-attachments/assets/11a0a708-8ee9-4153-9443-51a1d60a555b)
 
 Serial and analyzer outputs show that the microcontroller detects slightly more pulses than the logic analyzer on faster, stronger presses.
