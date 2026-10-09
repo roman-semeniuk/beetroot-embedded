@@ -1,0 +1,26 @@
+# Build output
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.srec
+*.map
+*.list
+*.o
+*.d
+*.su
+
+# IDE local files
+.settings/language.settings.xml
+.metadata/
+
+# CubeMX backups
+*.ioc.bak
+
+# OS / editor junk
+.DS_Store
+*.swp
+*.orig
+*.rej
+*.log
